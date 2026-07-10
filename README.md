@@ -1,4 +1,4 @@
-# ** workflows para o n8n** organizados de forma estratégica por nível de complexidade e categoria.
+# workflows para o n8n organizados de forma estratégica por nível de complexidade e categoria.
 
 Cada fluxo traz a explicação prática, a lógica dos nós e um diagrama **Mermaid** com emojis que imitam a interface visual do n8n para facilitar a sua visualização.
 
